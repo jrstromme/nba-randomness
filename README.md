@@ -7,4 +7,4 @@ For the code, see: ./code/main.R
 
 ## Result
 
-![Who Plays Random](./plots_tables/randomginiplot.jpeg)
+![Who Plays Random](./plots_tables/randomginiplot.jpeg)  
